@@ -5,6 +5,7 @@ This code package generates the signature described in arXiv:1505.07459 (see e.g
 The output are full events in hepmc-format.
 
 
+
 Prerequisites: 
 
 	* MadGraph5
@@ -14,7 +15,6 @@ Prerequisites:
 	* Pythia v.8.325 (too be linked with HepMC2 [ --with-hepmc2=.. ])
 
 Note: 	The version requirement on Pythia8 is crucial, as there is a bug in all current versions of Pythia. 
-
 	This code package comes with a patch for version 8.325 that is fully backwards compatible. 
 
 
