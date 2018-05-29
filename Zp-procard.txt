@@ -1,0 +1,17 @@
+import model ./DM_Zp_vector_UFO
+# Define multiparticle labels
+define p = g u c d s u~ c~ d~ s~
+define j = g u c d s u~ c~ d~ s~
+define pb = g u c d s u~ c~ d~ s~ b b~
+define jb = g u c d s u~ c~ d~ s~ b b~
+define l+ = e+ mu+
+define l- = e- mu-
+define vl = ve vm vt
+define vl~ = ve~ vm~ vt~
+define bs = b b~
+define all1 = pb l+ l- ta+ ta- vl vl~
+# Specify process(es) to run
+generate p p > Zp > dm dm~  @1 
+
+# Output processes to MadEvent directory
+output Zp-model/jj
