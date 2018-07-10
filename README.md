@@ -1,4 +1,4 @@
-[![arXiv](https://img.shields.io/badge/arXiv-1711.03554%20-green.svg)](https://arxiv.org/pdf/1505.07459.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-1505.07459%20-green.svg)](https://arxiv.org/pdf/1505.07459.pdf)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 If you make use of `DarkRadiation` in a publication, please cite [1505.07459](https://arxiv.org/pdf/1505.07459.pdf).
